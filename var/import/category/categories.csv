@@ -1,0 +1,84 @@
+"Name","Path","Position","Is Active","Url Key","Description","Image","Page Title","Meta Keywords","Meta Description","Include In Menu","Display Mode","CMS Block","Is Anchor","Availabe Sort By","Default Sort By","Page Layout","Custom Layout Update"
+"Furniture","Default Category","3","Yes","shop","","","","","","No","Products only","","Yes","","","No layout updates",""
+"Fashion","Default Category","1","Yes","fashion","<div class=""category-banner owl-carousel"">
+	<div class=""item""><img src=""{{media url=""wysiwyg/mango/category/women.jpg""}}"" alt="""" /></div>
+	<div class=""item""><img src=""{{media url=""wysiwyg/mango/category/men.jpg""}}"" alt="""" /></div>
+	<div class=""item""><img src=""{{media url=""wysiwyg/mango/category/top-brands.jpg""}}"" alt="""" /></div>
+	<div class=""item""><img src=""{{media url=""wysiwyg/mango/category/special-offer.jpg""}}"" alt="""" /></div>
+	<div class=""item""><img src=""{{media url=""wysiwyg/mango/category/leathers-product.jpg""}}"" alt="""" /></div>
+	<div class=""item""><img src=""{{media url=""wysiwyg/mango/category/bags-_-categories.jpg""}}"" alt="""" /></div>
+</div>
+<script type=""text/javascript"">
+jQuery(function($){
+    $(\'.owl-carousel.category-banner\').owlCarousel({
+        loop:true,
+        margin:0,
+        nav:false,
+	items:1,
+	autoplay:true
+    });
+});
+</script>","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Electronics","Default Category","2","Yes","electronics","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Accessories","Default Category","4","Yes","accessories","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Kids","Default Category/Fashion","3","Yes","kids","","leathers-product.jpg","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Camera Category","Default Category/Electronics","1","Yes","camera-category","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"SMALL AGD CATEGORY","Default Category/Electronics","2","Yes","small-agd-category","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Men","Default Category/Fashion","2","Yes","men","","men.jpg","","","","Yes","Products only","","Yes","","","No layout updates",""
+"iPad & Tablets","Default Category/Electronics","3","Yes","consoles-category","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Women","Default Category/Fashion","1","Yes","women","","women.jpg","","","","Yes","Products only","","Yes","","","No layout updates",""
+"PHONES CATEGORY","Default Category/Electronics","4","Yes","phones-category","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"TV Category","Default Category/Electronics","5","Yes","camera-category","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Jewelleries","Default Category/Accessories","1","Yes","jewelleries","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Foods","Default Category/Accessories","2","Yes","foods","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"PC Games","Default Category/Accessories","3","Yes","pc-games","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Shoes","Default Category/Accessories","4","Yes","shoes","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Sports","Default Category/Fashion","4","Yes","sports","","special-offer.jpg","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Bags","Default Category/Accessories","5","Yes","bags","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Adidas & Nike","Default Category/Fashion/Sports","1","Yes","adidas-nike","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Women Shoes","Default Category/Fashion/Women","2","Yes","women-shoes","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Lingeries","Default Category/Fashion/Women","3","Yes","lingeries","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Women Underwear","Default Category/Fashion/Women","4","Yes","women-underwear","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Men Fashion Dress","Default Category/Fashion/Men","1","Yes","men-fashion-dress","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Men Shoes","Default Category/Fashion/Sports","5","Yes","men-shoes","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Fashion Y-Shirts","Default Category/Fashion/Men","2","Yes","fashion-y-shirts","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Winter Clothes","Default Category/Fashion/Men","3","Yes","winter-clothes","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Sports Clothes","Default Category/Fashion/Kids","1","Yes","sports-clothes","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Shoes & Casual Socks","Default Category/Fashion/Kids","2","Yes","shoes-casual-socks","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Short Sports","Default Category/Fashion/Men","5","Yes","short-sports","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Women Blouses","Default Category/Fashion/Women","5","Yes","women-blouses","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Panasonic Digitals","Default Category/Electronics/Camera Category","1","Yes","panasonic-digitals","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Winter Sports","Default Category/Fashion/Sports","2","Yes","winter-sports","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Mizuno Sports","Default Category/Fashion/Sports","3","Yes","mizuno-sports","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Samsung Cameras","Default Category/Electronics/Camera Category","5","Yes","samsung-cameras","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Canon Cameras","Default Category/Electronics/Camera Category","4","Yes","canon-cameras","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Samsung Tablets","Default Category/Electronics/iPad & Tablets","5","Yes","sample-sub-category","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"iPAD 6 Generation","Default Category/Electronics/iPad & Tablets","4","Yes","sample-sub-category","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"12"" Samsung Galaxy","Default Category/Electronics/iPad & Tablets","3","Yes","sample-category","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Sony Digital Cameras","Default Category/Electronics/Camera Category","3","Yes","sony-digital-cameras","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Casio Cameras","Default Category/Electronics/Camera Category","2","Yes","casio-cameras","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Women Dress","Default Category/Fashion/Women","1","Yes","women-dress","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Winter Clothes","Default Category/Fashion/Kids","3","Yes","winter-clothes","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Spring & Autumn Clothes","Default Category/Fashion/Kids","4","Yes","spring-autumn-clothes","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Windows Phones","Default Category/Electronics/PHONES CATEGORY","2","Yes","windows-phones","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Motorola","Default Category/Electronics/PHONES CATEGORY","1","Yes","motorola","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Men Jeans","Default Category/Fashion/Men","4","Yes","men-jeans","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Casual Shoes","Default Category/Fashion/Kids","5","Yes","casual-shoes","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Sports Machine","Default Category/Fashion/Sports","4","Yes","sports-machine","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Red Vigetables","Default Category/Electronics/SMALL AGD CATEGORY","3","Yes","red-vigetables","","","","","","Yes","Products only","","No","","","No layout updates",""
+"Peanuts & Cucumbers","Default Category/Electronics/SMALL AGD CATEGORY","2","Yes","peanuts-cucumbers","","","","","","Yes","Products only","","No","","","No layout updates",""
+"Vitamin C Fruits","Default Category/Electronics/SMALL AGD CATEGORY","1","Yes","vitamin-c-fruits","","","","","","Yes","Products only","","No","","","No layout updates",""
+"Panasonic Tablets","Default Category/Electronics/iPad & Tablets","2","Yes","panasonic-tablets","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Huawei Phones","Default Category/Electronics/PHONES CATEGORY","3","Yes","huawei-phones","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Samsung Galaxy","Default Category/Electronics/PHONES CATEGORY","4","Yes","samsung-galaxy","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Food Staff","Default Category/Accessories/Foods","1","Yes","food-staff","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Fruits & Vigitables","Default Category/Electronics/SMALL AGD CATEGORY","5","Yes","fruits-vigitables","","","","","","Yes","Products only","","No","","","No layout updates",""
+"Green Fruits ","Default Category/Electronics/SMALL AGD CATEGORY","4","Yes","green-fruits","","","","","","Yes","Products only","","No","","","No layout updates",""
+"iPhones","Default Category/Electronics/PHONES CATEGORY","5","Yes","iphones","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Panasonic","Default Category/Electronics/TV Category","5","Yes","panasonic","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Sony TVs","Default Category/Electronics/TV Category","4","Yes","sony-tvs","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Samsung TVs","Default Category/Electronics/TV Category","3","Yes","samsung-tvs","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Konka & Toshiba","Default Category/Electronics/TV Category","2","Yes","konka-toshiba","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Fujitsu TVs","Default Category/Electronics/TV Category","1","Yes","fujitsu-tvs","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"Wine","Default Category/Accessories/Foods","2","Yes","wine","","","","","","Yes","Products only","","Yes","","","No layout updates",""
+"iPAD 5 Generation","Default Category/Electronics/iPad & Tablets","1","Yes","ipad-5-generation","","","","","","Yes","Products only","","Yes","","","No layout updates",""
