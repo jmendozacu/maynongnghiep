@@ -1,0 +1,26 @@
+/**
+ * WARNING: Do not change this file. Your changes will be lost.
+ * 2015-06-05 03:36:04 */
+
+.footer-middle {
+                    padding: 20px 0 75px;
+                }
+                .footer-middle .footer-menu li:before {
+                    color: #4c4c4c;
+                }
+                @media (max-width: 1279px){
+                    .footer-middle {
+                        padding: 50px 0;
+                    }
+                }
+                .cms-index-index .header-container {
+                position: absolute;
+                background:none;
+                left:0;
+                right:0;
+                }
+                .cms-index-index .header-container.sticky-header{
+                z-index:21;
+                background-color:#262626;
+                }#newsletter_popup h2{letter-spacing: -0.9px}#newsletter_popup p{letter-spacing: 0.4px}#newsletter_popup button.button{letter-spacing: 2px;}#newsletter_popup{
+width:830px;height:400px;}
